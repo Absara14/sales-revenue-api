@@ -1,7 +1,6 @@
 # Sales Data Analysis API
 
-This project provides a backend solution for loading, refreshing, and analyzing large historical sales data from CSV files.  
-It exposes a RESTful API to trigger data refreshes and retrieve revenue analytics by product, category, and region.
+This project provides a backend solution for loading, refreshing, and analyzing large historical sales data from CSV files.It exposes a RESTful API to trigger data refreshes and retrieve revenue analytics by product, category, and region.
 
 ---
 
