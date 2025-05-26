@@ -19,26 +19,35 @@ It exposes a RESTful API to trigger data refreshes and retrieve revenue analytic
 ---
 
 ## Setup Instructions:
-
 1. *Clone the repository*
 
    ```bash
-   git clone https://github.com/Absara14/sales-revenue-api.git
+    git clone https://github.com/Absara14/sales-revenue-api.git
 
-2.Install dependencies:
+
+
+  2.Install dependencies
 
     npm install
 
-3.Configure environment variables:
 
-   Create a .env file in the root directory:
 
-   MONGO_URI=mongodb://localhost:27017/salesdb
-   PORT=5000
+  3.Configure environment variables
 
-4.Run the server:
-      npm start
+    Create a .env file in the root directory
 
-5. Access API:
+    MONGO_URI=mongodb://localhost:27017/salesdb
 
-     The server runs on http://localhost:5000 by default.
+    PORT=5000
+
+
+
+  4.Run the server
+
+    npm start
+
+
+
+  5. Access API
+
+    The server runs on http://localhost:5000 by default.
