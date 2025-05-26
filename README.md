@@ -59,7 +59,7 @@ This endpoint allows you to manually trigger a data refresh by uploading a CSV f
 
 Request Body:
 {
-  "filename": "sample.csv"
+  "filename": "sales.csv"
 }
 
 Response:
