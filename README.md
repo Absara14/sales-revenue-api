@@ -19,7 +19,9 @@ It exposes a RESTful API to trigger data refreshes and retrieve revenue analytic
 ---
 
 ## Setup Instructions:
-1. *Clone the repository*
+
+
+    1. *Clone the repository*
 
    ```bash
     git clone https://github.com/Absara14/sales-revenue-api.git
@@ -48,12 +50,13 @@ It exposes a RESTful API to trigger data refreshes and retrieve revenue analytic
 
 
 
-  5. Access API
+5. Access API
 
-    The server runs on http://localhost:5000 by default.
+       The server runs on http://localhost:5000 by default.
 
 
 API Usage Guide:
+
 1. POST /api/refresh
 
 This endpoint allows you to manually trigger a data refresh by uploading a CSV file.
